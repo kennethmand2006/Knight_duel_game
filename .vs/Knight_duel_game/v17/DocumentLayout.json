@@ -1,0 +1,440 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}|Knight_duel_game\\Knight_duel_game.csproj|c:\\users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\knight_duel_game\\knight_duel_game\\controllers\\knightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}|Knight_duel_game\\Knight_duel_game.csproj|solutionrelative:knight_duel_game\\controllers\\knightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}|Knight_duel_game\\Knight_duel_game.csproj|c:\\users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\knight_duel_game\\knight_duel_game\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}|Knight_duel_game\\Knight_duel_game.csproj|solutionrelative:knight_duel_game\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}|Knight_duel_game\\Knight_duel_game.csproj|c:\\users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\knight_duel_game\\knight_duel_game\\controllers\\swordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}|Knight_duel_game\\Knight_duel_game.csproj|solutionrelative:knight_duel_game\\controllers\\swordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5044A3-48E6-4BA8-88F0-005B9069C65E}|Knight_duel_game.ApplicationServices\\Knight_duel_game.ApplicationServices.csproj|c:\\users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\knight_duel_game\\knight_duel_game.applicationservices\\services\\fileservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5044A3-48E6-4BA8-88F0-005B9069C65E}|Knight_duel_game.ApplicationServices\\Knight_duel_game.ApplicationServices.csproj|solutionrelative:knight_duel_game.applicationservices\\services\\fileservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4123E5CA-4FB9-4811-999E-1A20134E3054}|KnightGame.core\\Knight_duel_game.Core.csproj|c:\\users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\knight_duel_game\\knightgame.core\\serviceinterface\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4123E5CA-4FB9-4811-999E-1A20134E3054}|KnightGame.core\\Knight_duel_game.Core.csproj|solutionrelative:knightgame.core\\serviceinterface\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}|Knight_duel_game\\Knight_duel_game.csproj|c:\\users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\knight_duel_game\\knight_duel_game\\controllers\\horsecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}|Knight_duel_game\\Knight_duel_game.csproj|solutionrelative:knight_duel_game\\controllers\\horsecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}|Knight_duel_game\\Knight_duel_game.csproj|c:\\users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\knight_duel_game\\knight_duel_game\\views\\swords\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}|Knight_duel_game\\Knight_duel_game.csproj|solutionrelative:knight_duel_game\\views\\swords\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}|Knight_duel_game\\Knight_duel_game.csproj|c:\\users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\knight_duel_game\\knight_duel_game\\views\\swords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}|Knight_duel_game\\Knight_duel_game.csproj|solutionrelative:knight_duel_game\\views\\swords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}|Knight_duel_game\\Knight_duel_game.csproj|c:\\users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\knight_duel_game\\knight_duel_game\\views\\horses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}|Knight_duel_game\\Knight_duel_game.csproj|solutionrelative:knight_duel_game\\views\\horses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}|Knight_duel_game\\Knight_duel_game.csproj|c:\\users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\knight_duel_game\\knight_duel_game\\views\\horses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}|Knight_duel_game\\Knight_duel_game.csproj|solutionrelative:knight_duel_game\\views\\horses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}|Knight_duel_game\\Knight_duel_game.csproj|c:\\users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\knight_duel_game\\knight_duel_game\\models\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}|Knight_duel_game\\Knight_duel_game.csproj|solutionrelative:knight_duel_game\\models\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}|Knight_duel_game\\Knight_duel_game.csproj|c:\\users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\knight_duel_game\\knight_duel_game\\models\\horse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}|Knight_duel_game\\Knight_duel_game.csproj|solutionrelative:knight_duel_game\\models\\horse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}|Knight_duel_game\\Knight_duel_game.csproj|c:\\users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\knight_duel_game\\knight_duel_game\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}|Knight_duel_game\\Knight_duel_game.csproj|solutionrelative:knight_duel_game\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5044A3-48E6-4BA8-88F0-005B9069C65E}|Knight_duel_game.ApplicationServices\\Knight_duel_game.ApplicationServices.csproj|c:\\users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\knight_duel_game\\knight_duel_game.applicationservices\\services\\knightservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5044A3-48E6-4BA8-88F0-005B9069C65E}|Knight_duel_game.ApplicationServices\\Knight_duel_game.ApplicationServices.csproj|solutionrelative:knight_duel_game.applicationservices\\services\\knightservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4123E5CA-4FB9-4811-999E-1A20134E3054}|KnightGame.core\\Knight_duel_game.Core.csproj|c:\\users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\knight_duel_game\\knightgame.core\\domain\\filetodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4123E5CA-4FB9-4811-999E-1A20134E3054}|KnightGame.core\\Knight_duel_game.Core.csproj|solutionrelative:knightgame.core\\domain\\filetodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4123E5CA-4FB9-4811-999E-1A20134E3054}|KnightGame.core\\Knight_duel_game.Core.csproj|c:\\users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\knight_duel_game\\knightgame.core\\domain\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4123E5CA-4FB9-4811-999E-1A20134E3054}|KnightGame.core\\Knight_duel_game.Core.csproj|solutionrelative:knightgame.core\\domain\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4123E5CA-4FB9-4811-999E-1A20134E3054}|KnightGame.core\\Knight_duel_game.Core.csproj|c:\\users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\knight_duel_game\\knightgame.core\\dto\\filetodatabasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4123E5CA-4FB9-4811-999E-1A20134E3054}|KnightGame.core\\Knight_duel_game.Core.csproj|solutionrelative:knightgame.core\\dto\\filetodatabasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4123E5CA-4FB9-4811-999E-1A20134E3054}|KnightGame.core\\Knight_duel_game.Core.csproj|c:\\users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\knight_duel_game\\knightgame.core\\dto\\knightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4123E5CA-4FB9-4811-999E-1A20134E3054}|KnightGame.core\\Knight_duel_game.Core.csproj|solutionrelative:knightgame.core\\dto\\knightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4123E5CA-4FB9-4811-999E-1A20134E3054}|KnightGame.core\\Knight_duel_game.Core.csproj|c:\\users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\knight_duel_game\\knightgame.core\\serviceinterface\\iknightservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4123E5CA-4FB9-4811-999E-1A20134E3054}|KnightGame.core\\Knight_duel_game.Core.csproj|solutionrelative:knightgame.core\\serviceinterface\\iknightservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}|Knight_duel_game\\Knight_duel_game.csproj|c:\\users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\knight_duel_game\\knight_duel_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}|Knight_duel_game\\Knight_duel_game.csproj|solutionrelative:knight_duel_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6092E6FE-AD9D-4336-A3D3-AB6208DC9637}|Knight_duel_game.Data\\Knight_duel_game.Data.csproj|c:\\users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\knight_duel_game\\knight_duel_game.data\\knight_duel_game.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6092E6FE-AD9D-4336-A3D3-AB6208DC9637}|Knight_duel_game.Data\\Knight_duel_game.Data.csproj|solutionrelative:knight_duel_game.data\\knight_duel_game.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4123E5CA-4FB9-4811-999E-1A20134E3054}|KnightGame.core\\Knight_duel_game.Core.csproj|c:\\users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\knight_duel_game\\knightgame.core\\knight_duel_game.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4123E5CA-4FB9-4811-999E-1A20134E3054}|KnightGame.core\\Knight_duel_game.Core.csproj|solutionrelative:knightgame.core\\knight_duel_game.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KnightController.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game\\Controllers\\KnightController.cs",
+              "RelativeDocumentMoniker": "Knight_duel_game\\Controllers\\KnightController.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game\\Controllers\\KnightController.cs",
+              "RelativeToolTip": "Knight_duel_game\\Controllers\\KnightController.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAmwIoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:50:12.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\KnightGame.core\\ServiceInterface\\Interface1.cs",
+              "RelativeDocumentMoniker": "KnightGame.core\\ServiceInterface\\Interface1.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\KnightGame.core\\ServiceInterface\\Interface1.cs",
+              "RelativeToolTip": "KnightGame.core\\ServiceInterface\\Interface1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:49:08.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileServices.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game.ApplicationServices\\Services\\FileServices.cs",
+              "RelativeDocumentMoniker": "Knight_duel_game.ApplicationServices\\Services\\FileServices.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game.ApplicationServices\\Services\\FileServices.cs",
+              "RelativeToolTip": "Knight_duel_game.ApplicationServices\\Services\\FileServices.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:42:04.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HorseController.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game\\Controllers\\HorseController.cs",
+              "RelativeDocumentMoniker": "Knight_duel_game\\Controllers\\HorseController.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game\\Controllers\\HorseController.cs",
+              "RelativeToolTip": "Knight_duel_game\\Controllers\\HorseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:13:16.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Knight_duel_game\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Knight_duel_game\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:13:31.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SwordController.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game\\Controllers\\SwordController.cs",
+              "RelativeDocumentMoniker": "Knight_duel_game\\Controllers\\SwordController.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game\\Controllers\\SwordController.cs",
+              "RelativeToolTip": "Knight_duel_game\\Controllers\\SwordController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:13:51.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game\\Views\\Swords\\Create.cshtml",
+              "RelativeDocumentMoniker": "Knight_duel_game\\Views\\Swords\\Create.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game\\Views\\Swords\\Create.cshtml",
+              "RelativeToolTip": "Knight_duel_game\\Views\\Swords\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T09:16:47.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game\\Views\\Swords\\Index.cshtml",
+              "RelativeDocumentMoniker": "Knight_duel_game\\Views\\Swords\\Index.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game\\Views\\Swords\\Index.cshtml",
+              "RelativeToolTip": "Knight_duel_game\\Views\\Swords\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T09:16:33.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game\\Views\\Horses\\Index.cshtml",
+              "RelativeDocumentMoniker": "Knight_duel_game\\Views\\Horses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game\\Views\\Horses\\Index.cshtml",
+              "RelativeToolTip": "Knight_duel_game\\Views\\Horses\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T09:15:29.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game\\Views\\Horses\\Create.cshtml",
+              "RelativeDocumentMoniker": "Knight_duel_game\\Views\\Horses\\Create.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game\\Views\\Horses\\Create.cshtml",
+              "RelativeToolTip": "Knight_duel_game\\Views\\Horses\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T09:15:54.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sword.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game\\Models\\Sword.cs",
+              "RelativeDocumentMoniker": "Knight_duel_game\\Models\\Sword.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game\\Models\\Sword.cs",
+              "RelativeToolTip": "Knight_duel_game\\Models\\Sword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:12:50.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Horse.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game\\Models\\Horse.cs",
+              "RelativeDocumentMoniker": "Knight_duel_game\\Models\\Horse.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game\\Models\\Horse.cs",
+              "RelativeToolTip": "Knight_duel_game\\Models\\Horse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:12:36.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Knight_duel_game\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Knight_duel_game\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:10:14.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KnightDto.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\KnightGame.core\\Dto\\KnightDto.cs",
+              "RelativeDocumentMoniker": "KnightGame.core\\Dto\\KnightDto.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\KnightGame.core\\Dto\\KnightDto.cs",
+              "RelativeToolTip": "KnightGame.core\\Dto\\KnightDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:57:53.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FileToDatabaseDto.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\KnightGame.core\\Dto\\FileToDatabaseDto.cs",
+              "RelativeDocumentMoniker": "KnightGame.core\\Dto\\FileToDatabaseDto.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\KnightGame.core\\Dto\\FileToDatabaseDto.cs",
+              "RelativeToolTip": "KnightGame.core\\Dto\\FileToDatabaseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:54:52.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\KnightGame.core\\Domain\\Knight.cs",
+              "RelativeDocumentMoniker": "KnightGame.core\\Domain\\Knight.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\KnightGame.core\\Domain\\Knight.cs",
+              "RelativeToolTip": "KnightGame.core\\Domain\\Knight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:47:17.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FileToDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\KnightGame.core\\Domain\\FileToDatabase.cs",
+              "RelativeDocumentMoniker": "KnightGame.core\\Domain\\FileToDatabase.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\KnightGame.core\\Domain\\FileToDatabase.cs",
+              "RelativeToolTip": "KnightGame.core\\Domain\\FileToDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:52:11.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KnightServices.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game.ApplicationServices\\Services\\KnightServices.cs",
+              "RelativeDocumentMoniker": "Knight_duel_game.ApplicationServices\\Services\\KnightServices.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game.ApplicationServices\\Services\\KnightServices.cs",
+              "RelativeToolTip": "Knight_duel_game.ApplicationServices\\Services\\KnightServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:50:24.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IKnightServices.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\KnightGame.core\\ServiceInterface\\IKnightServices.cs",
+              "RelativeDocumentMoniker": "KnightGame.core\\ServiceInterface\\IKnightServices.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\KnightGame.core\\ServiceInterface\\IKnightServices.cs",
+              "RelativeToolTip": "KnightGame.core\\ServiceInterface\\IKnightServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:00:35.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game\\Program.cs",
+              "RelativeDocumentMoniker": "Knight_duel_game\\Program.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game\\Program.cs",
+              "RelativeToolTip": "Knight_duel_game\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:55:50.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Knight_duel_game.Data",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game.Data\\Knight_duel_game.Data.csproj",
+              "RelativeDocumentMoniker": "Knight_duel_game.Data\\Knight_duel_game.Data.csproj",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\Knight_duel_game.Data\\Knight_duel_game.Data.csproj",
+              "RelativeToolTip": "Knight_duel_game.Data\\Knight_duel_game.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-15T08:54:35.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Knight_duel_game.Core",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\KnightGame.core\\Knight_duel_game.Core.csproj",
+              "RelativeDocumentMoniker": "KnightGame.core\\Knight_duel_game.Core.csproj",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kennethm\u00E4nd\\knightgame\\Knight_duel_game\\KnightGame.core\\Knight_duel_game.Core.csproj",
+              "RelativeToolTip": "KnightGame.core\\Knight_duel_game.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-15T08:43:19.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 594,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a8466fe-5a05-4f81-ad45-7d7c1316817e}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

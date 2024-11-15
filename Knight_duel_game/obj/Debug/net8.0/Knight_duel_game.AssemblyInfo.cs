@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Knight_duel_game")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae4eb5d26c13adbb0057ae4ce508a7fee8a3c518")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b57bfa8b29ee75807075143a7e02a24a2fff021d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Knight_duel_game")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Knight_duel_game")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

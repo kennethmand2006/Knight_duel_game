@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knight_duel_game", "Knight_duel_game\Knight_duel_game.csproj", "{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Knight_duel_game", "Knight_duel_game\Knight_duel_game.csproj", "{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knight_duel_game.Core", "KnightGame.core\Knight_duel_game.Core.csproj", "{4123E5CA-4FB9-4811-999E-1A20134E3054}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knight_duel_game.Data", "Knight_duel_game.Data\Knight_duel_game.Data.csproj", "{6092E6FE-AD9D-4336-A3D3-AB6208DC9637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knight_duel_game.ApplicationServices", "Knight_duel_game.ApplicationServices\Knight_duel_game.ApplicationServices.csproj", "{BA5044A3-48E6-4BA8-88F0-005B9069C65E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C01E2E3-2C4C-487A-ADB4-9CC149A6A563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4123E5CA-4FB9-4811-999E-1A20134E3054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4123E5CA-4FB9-4811-999E-1A20134E3054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4123E5CA-4FB9-4811-999E-1A20134E3054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4123E5CA-4FB9-4811-999E-1A20134E3054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6092E6FE-AD9D-4336-A3D3-AB6208DC9637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6092E6FE-AD9D-4336-A3D3-AB6208DC9637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6092E6FE-AD9D-4336-A3D3-AB6208DC9637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6092E6FE-AD9D-4336-A3D3-AB6208DC9637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA5044A3-48E6-4BA8-88F0-005B9069C65E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5044A3-48E6-4BA8-88F0-005B9069C65E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5044A3-48E6-4BA8-88F0-005B9069C65E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5044A3-48E6-4BA8-88F0-005B9069C65E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
